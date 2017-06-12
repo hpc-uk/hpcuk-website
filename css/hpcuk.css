@@ -1,0 +1,15 @@
+/*
+ * Local styles for HPC-UK website
+ */
+.bordertabstyle {
+   border-collapse: collapse;
+}
+.bordertabstyle th {
+   background: #eee;
+   font-style: bold;
+}
+.bordertabstyle table, th, td {
+   border: 1px solid black;
+   padding: 5px;
+}
+
