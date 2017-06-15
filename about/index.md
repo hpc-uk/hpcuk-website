@@ -28,3 +28,25 @@ together RSEs to share knowledge, provide support and help campaign for
 recognition in academia.
 
 If you want to get involved with HPC-Uk the please [contact us](../contact/).
+
+What is HPC?
+------------
+
+HPC (High-performance computing) is the use of many parallel computing
+elements (e.g. CPUs) to solve complex problems.
+
+Applications that use HPC typically require high levels of
+floating point performance, large amounts of fast memory, the ability
+to communicate quickly between different processes, access to large
+amounts of fast disk storage, or any combination of the above.
+
+HPC is used extensively in many different domains. Traditionally it has
+been particularly important in scientific research and engineering
+but more recently it has also become key to medical science and
+complex data analysis.
+
+For a good introduction to the world of HPC, see the free Supercomputing
+course on Futurelearn:
+
+* [Supercomputing](https://www.futurelearn.com/courses/supercomputing)
+
