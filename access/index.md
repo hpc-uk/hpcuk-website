@@ -25,6 +25,7 @@ The following facilities support Instant or Seedcorn Access:
 : Academic researchers whose work falls into the [EPSRC](http://www.epsrc.ac.uk) remit
 can apply for up to 1200 kAU for 6 months as part of an ARCHER Instant Access 
 application.
+
 [Cirrus Instant Access](http://www.cirrus.ac.uk/access/instant)
 : Similarly, academic researchers whose work falls into the [EPSRC](http://www.epsrc.ac.uk) remit
 can apply for up to 7000 CPUh for 6 months as part of a Cirrus Instant Access 
@@ -49,18 +50,23 @@ process for getting access through grant applications.
 : ARCHER has specific processes for researchers applying for access through grants from
 EPSRC and NERC. There is also advice for how to proceed if requesting access through
 other academic funding bodies.
-[Cirrus Access](
+
+[Cirrus Access](http://www.cirrus.ac.uk/access)
+: Cirrus has specific processes for researchers applying for access through grants from
+EPSRC. There is also advice for how to proceed if requesting access through
+other academic funding bodies.
 
 Other Access Methods
 --------------------
 
-A number of facilities have alternative access methods available for large amounts of
+A number of facilities have alternative access methods available for large amounts of resource.
 
 
 [ARCHER RAP](http://www.archer.ac.uk/access/rap)
 : Academic researchers whose work falls into the [EPSRC](http://www.epsrc.ac.uk) remit
 can apply for large amounts of ARCHER resource for up to 12 months via the ARCHER
 Resource Allocation Panel (RAP). Calls are usually opened three times a year.
+
 [DiRAC RAC](http://dirac.ac.uk/access.html)
 : Academic researchers whose work falls into the [STFC](http://www.stfc.ac.uk) remit
 can apply for access to DiRAC facilities as short or long projects through the 
