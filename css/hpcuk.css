@@ -13,3 +13,12 @@
    padding: 5px;
 }
 
+.vertical-box {
+    display: flex;
+    align-items: center;
+}
+
+footer {
+    margin-top: 25px;
+}
+
