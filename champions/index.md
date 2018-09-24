@@ -7,14 +7,16 @@ summary: Local contacts to help you use HPC
 UK HPC Champions
 ================
 
-The HPC Champions network arose out of the [ARCHER](Http://www.archer.ac.uk) with was funded
-by [EPSRC](http://www.epsrc.ac.uk). The UK HPC Champions are individuals who can:
+The UK HPC Champions are individuals who can:
 
 * advising users on how to access appropriate computational resources
 * provide advice on how to exploit these resources effectively
 * providing advice on support mechanisms
 * provide information on obtaining training in appropriate HPC technologies
 * provide advice on HPC career development skills and engaging in outreach activities
+
+The HPC Champions network arose out of the [ARCHER](Http://www.archer.ac.uk) Champions
+activity that was funded as part of the ARCHER Outreach grant by [EPSRC](http://www.epsrc.ac.uk).
 
 List of UK HPC Champions
 ========================
