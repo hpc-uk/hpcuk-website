@@ -9,11 +9,11 @@ UK HPC Champions
 
 The UK HPC Champions are individuals who can:
 
-* advising users on how to access appropriate computational resources
-* provide advice on how to exploit these resources effectively
-* providing advice on support mechanisms
-* provide information on obtaining training in appropriate HPC technologies
-* provide advice on HPC career development skills and engaging in outreach activities
+ - advise researchers on how to access appropriate computational resources
+ - advise on how to exploit these resources effectively
+ - provide advice on how to get further help
+ - provide information on obtaining training in using advance computing
+ - provide advice on HPC career development skills and engaging in outreach activities
 
 The HPC Champions network arose out of the [ARCHER](Http://www.archer.ac.uk) Champions
 activity that was funded as part of the ARCHER Outreach grant by [EPSRC](http://www.epsrc.ac.uk).
