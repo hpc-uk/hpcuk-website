@@ -26,58 +26,58 @@ England: North East
 
 
 | Martin Callaghan | Advanced Research Computing, University of Leeds |
-| Graham Collins | N8 HPC, based at University of Newcastle |
-| Mike Croucher | Advanced Research Computing, University of Leeds |
+| [Graham Collins](http://www.ncl.ac.uk/itservice/about/people/profile/graham.collins) | N8 HPC, based at University of Newcastle |
+| [Mike Croucher](https://www.software.ac.uk/mike-croucher) | Advanced Research Computing, University of Leeds |
 | Joanna Leng | Advanced Research Computing, University of Leeds |
-| Alan Real | Advanced Research Computing, University of York |
-| Paul Richmond | Department of Computer Science, University of Sheffield |
+| Alan Real | Advanced Research Computing, Durham Universiry |
+| [Paul Richmond](http://paulrichmond.shef.ac.uk/) | Department of Computer Science, University of Sheffield |
 
 England: North West
 -------------------
 
-| Gerard Capes | School of Earth and Environmental Sciences, University of Manchester |
-| Violeta Holmes | HPC Research Group, University of Huddersfield |
-| George Leaver | Research Computing, University of Manchester |
-| Xiaohu Guo | Scientific Computing Department, STFC |
+| [Gerard Capes](http://www.sees.manchester.ac.uk/people/staff/profile/?ea=Gerard.Capes) | School of Earth and Environmental Sciences, University of Manchester |
+| [Violeta Holmes](https://www.hud.ac.uk/ourstaff/profile/index.php?staffid=632) | HPC Research Group, University of Huddersfield |
+| [George Leaver](http://wiki.rac.manchester.ac.uk/community/aboutus/staff/GeorgeLeaver) | Research Computing, University of Manchester |
+| [Xiaohu Guo](http://www.scd.stfc.ac.uk/organisation/42436.aspx?p=Application%20Performance%20Engineering/Guo/) | Scientific Computing Department, STFC |
 
 England: East Midlands
 ----------------------
 
 | Colin Bannister | HPC, University of Nottingham |
-| Tom Daff | University of Cambridge |
-| Paul Griffiths | Centre for Atmospheric Science, University of Cambridge |
-| Zhong-Nan Wang | Department of Engineering, University of Cambridge |
+| [Tom Daff](https://www.researchgate.net/profile/Thomas_Daff) | University of Cambridge |
+| [Paul Griffiths](http://www.ch.cam.ac.uk/person/ptg21) | Centre for Atmospheric Science, University of Cambridge |
+| [Zhong-Nan Wang](http://www.eng.cam.ac.uk/profiles/znw22) | Department of Engineering, University of Cambridge |
 
 England: West Midlands
 ----------------------
 
-| Andrew Edmondson | University of Birmingham |
+| [Andrew Edmondson](http://www.bham.academia.edu/AndrewEdmondson) | University of Birmingham |
 
 England: South West
 -------------------
 
 | James Grant | University of Bath |
-| Ed Ransley | University of Plymouth |
-| Christopher Woods | School of Chemistry, University of Bristol |
+| [Ed Ransley](https://www.plymouth.ac.uk/staff/edward-ransley) | University of Plymouth |
+| [Christopher Woods](http://www.bristol.ac.uk/chemistry/people/christopher-j-woods/overview.html) | School of Chemistry, University of Bristol |
 
 England: South East
 -------------------
 
-| Alhamdu Bello | HPC,University of Sussex |
-| Ian Bush | Oxford e-Research Centre (OeRC), University of Oxford |
-| Mihai Duta | Computer Science, University of Oxford |
-| Annette Osprey | NCAS, University of Reading |
+| [Alhamdu Bello](http://www.sussex.ac.uk/profiles/303767) | HPC, University of Sussex |
+| [Ian Bush](https://www.oerc.ox.ac.uk/dr-ian-bush) | Oxford e-Research Centre (OeRC), University of Oxford |
+| [Mihai Duta](http://www.cs.ox.ac.uk/people/mihai.duta/cv.html) | Computer Science, University of Oxford |
+| [Annette Osprey](http://www.met.reading.ac.uk/userpages/annette.php) | NCAS, University of Reading |
 | Andy Richards | Diamond Light Source |
 | Richard Stanworth | Cranfield University |
 
 England: Greater London
 -----------------------
 
-| Tom Couch | Research IT Services, UCL |
-| Jo Lampard | Research IT Services, UCL |
+| [Tom Couch](https://www.ucl.ac.uk/research-it-services/people/tom) | Research IT Services, UCL |
+| [Jo Lampard](https://www.ucl.ac.uk/research-it-services/people/jo) | Research IT Services, UCL |
 | Mario Orsi | QMUL |
-| Jemma Trick | Department of Physics, KCL |
-| Christopher Walker | School of Physics and Astronomy, QMUL |
+| [Jemma Trick](https://kclpure.kcl.ac.uk/portal/jemma.trick.html) | Department of Physics, KCL |
+| [Christopher Walker](http://pprc.qmul.ac.uk/directory/c.j.walker) | School of Physics and Astronomy, QMUL |
 
 Northern Ireland
 ----------------
@@ -87,18 +87,18 @@ Northern Ireland
 Scotland
 --------
 
-| Michael Chung | School of Natural and Computing Sciences, Unviersity of Aberdeen |
+| [Michael Chung](http://www.abdn.ac.uk/ncs/people/profiles/m.chung) | School of Natural and Computing Sciences, Unviersity of Aberdeen |
 | Kenton d'Mellow | Edinburgh Compute and Data Facility, University of Edinburgh |
 | Oliver Henrich | School of Physics, University of Strathclyde |
-| Douglas Houston | School of Biological Sciences, University of Edinburgh |
-| Naveed Khan | School of Natural and Computing Sciences, University of Aberdeen |
-| Karina Kubiak-Ossow | University of Strathclyde |
-| Andy Turner | EPCC, The University of Edinburgh |
+| [Douglas Houston](http://www.ed.ac.uk/biology/postgraduate/taught-programmes/online-programmes-drug-discovery/our-programmes/staff-profiles/douglas-houston) | School of Biological Sciences, University of Edinburgh |
+| [Naveed Khan](http://www.abdn.ac.uk/ncs/people/profiles/n.khan) | School of Natural and Computing Sciences, University of Aberdeen |
+| [Karina Kubiak-Ossow](http://www.strath.ac.uk/staff/kubiak-ossowskakarinadr/) | University of Strathclyde |
+| [Andy Turner](https://www.epcc.ed.ac.uk/about/staff/dr-andrew-turner) | EPCC, The University of Edinburgh |
 
 Wales
 -----
 
-| Christine Kitchen | Advanced Research Computing, Cardiff |
+| [Christine Kitchen](https://www.cardiff.ac.uk/people/view/401209-kitchen-christine) | Advanced Research Computing, Cardiff |
 
 Industry
 --------
