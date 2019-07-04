@@ -40,7 +40,7 @@ summary: Sharing expetise on supporting HPC
       + Used an Open Source methodology with all raw data, analysis notebooks, build instructions etc. publicly available
       + See: https://github.com/hpc-uk/archer-benchmarks 
 
-## HPC Mid+
+## HPC Mid+
 
    - RSE's lookng after assessing and staffing RSE projects proposed by HPC Mid+ partners
    - Developed extremely popular Scientific Python course that has been delivered at L'boro multiple times and is extremely popular
@@ -77,24 +77,49 @@ summary: Sharing expetise on supporting HPC
       + May be particularly helpful for researchers with workflows that require different hardware at different stages
    - Creating tools that sit on top of the Spack tool to help it manage package installs better
       + EPCC noted that Spack are working on functionality called Spack Environments that may help
+      + Bristol noted that EasyBuild as an alternatve was neither Easy, nor did it Build. They have had
+        a roughly 50% success rate with Spack
+      + EPCC noted that there is an active EasyBuild community in the UK HPC-SIG
    - Recently deployed a very high performance, solid state storage system that is number 1 in the IO-500 list
       + Keen to hear from researchers/RSEs that may find this useful
    - Looking at builing a framework for continuous testing/monitoring of the system and software environment
       + Based on Reframe from CSCS
       + EPCC are also looking at Reframe for this purpose - should coordinate on this
+      + Another option is a tool called Buildtest
 
 # Other topics
 
-## Singularity Containers
+## What experience have people had with Singularity containers?
 
-## HPC in the Cloud
+   - Cumulus/CSD3: SLURM+MPI+Singularity sort of works - had some success using MPICH. Composing workflows that use applications in 
+     two (or more) separate containers has proven difficult.
+   - Cardiff: used to solve issues where users had complex depenencies. Not much success with OpenMPI
+   - MMM Hub: used to enable custom serial environments
+   - EPCC: used to enable custom serial environments. Not had much success in creating an MPI configuration
+     that could be used by a normal user.
+   - Looks like Singularity should work on Arm
+
+## HPC in the Cloud (Bristol report)
+
+   - Discovered a bug in Intel MKL DNN library when running in a cloud VM - escalated to Intel
+   - Had success with Cluster in the Cloud and are presenting at RSEConUK19 on this:
+      + https://rseconuk2019.sched.com/event/QSQk/3b2-hpc-and-novel-clusters-zero-to-cluster-in-20-minutes-there-and-back-again
+      + https://cluster-in-the-cloud.readthedocs.io/en/latest/
+      + Add Singularity to Cluster in the Cloud: https://github.com/christopheredsall/citc-singularity
+      + Test for MPI with Singularity: https://github.com/christopheredsall/singularity-hello-world
+   - EPCC noted the challenges of getting good IO performance on clusters in the cloud
 
 # Upcoming events and meetings
 
-   - ATI Data Study Event
-   - RSE for HPC Meeting
+   - ATI Data Study Event, Bristol, Aug 2019
+      + Data provided
+      + Azure resource to analyse the data
+   - RSE for HPC Meeting, Birmingham, PM 16 Sep 2019
       + Associated with RSEConUK19, Birmingham
-      + PM Mon ? Sep 2019
       + James Grant (Bath) and Jo Beech-Brandt (EPCC) organising
+   - RSEConUK 2019, Birmingham, 17-19 Sep 2019
+      + Tickets selling out fast!
 
-# Date of next meeting
+# Date of next meeting
+
+1400 BST, Tue 6 Aug 2019

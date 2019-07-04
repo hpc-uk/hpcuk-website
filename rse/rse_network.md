@@ -46,4 +46,4 @@ Room Ref: 1367176
 
 ## Monthly Online Meeting Notes
 
-   - [2 July 2019](2019-07-02_HPCRSEMeetingNotes.md)
+   - [2 July 2019](2019-07-02_HPCRSEMeetingNotes.html)

@@ -22,3 +22,14 @@ footer {
     margin-top: 25px;
 }
 
+.container ul {
+    list-style: disc;
+}
+
+.container ul ul {
+   list-style: circle;
+}
+
+.container li {
+   margin-left: 2em;
+}
