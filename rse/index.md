@@ -4,6 +4,8 @@ title: Research Software Engineers
 summary: RSE expertise to help you get the most out out HPC
 ---
 
+# Who are Research Software Engineers?
+
 [Research Software Engineers](http://www.rse.ac.uk) are people who combine expertise in programming
 with an intricate understanding of research. RSEs are an invaluable source of expertise that can
 help researchers in understanding how HPC can help their research and in providing support to get 
