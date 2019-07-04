@@ -10,7 +10,7 @@
 }
 .bordertabstyle table, th, td {
    border: 1px solid black;
-   padding: 5px;
+   padding: 5p3x;
 }
 
 .vertical-box {
@@ -22,14 +22,15 @@ footer {
     margin-top: 25px;
 }
 
-.container ul {
-    list-style: disc;
+.page-content ul {
+   list-style: disc;
 }
 
-.container ul ul {
-   list-style: circle;
+.page-content ul ul {
+  list-style: circle;
 }
 
-.container li {
-   margin-left: 2em;
+.page-content li {
+  margin-left: 2em;
 }
+
