@@ -1,6 +1,5 @@
 ---
 layout: page
-layout: page
 title: UK HPC RSE Network
 summary: Sharing expetise on supporting HPC
 ---
