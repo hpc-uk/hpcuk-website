@@ -4,6 +4,12 @@ title: UK HPC RSE Network
 summary: Sharing expetise on supporting HPC
 ---
 
+The UK HPC RSE network is an open community of RSEs that are involved in providing support to researchers
+using HPC facilities. Anyone with an interest in this area is welcome to participate in the community.
+
+We have a regular series of online meetings and use the HPC channel in the
+[RSE Slack](https://join.slack.com/t/ukrse/signup) for discussions.
+
 # Monthly online meeting
 
 There are a regular series of meetings that all RSE's supporting researchers using HPC facilities or RSE's
