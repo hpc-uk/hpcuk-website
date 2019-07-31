@@ -68,7 +68,7 @@ summary: Sharing expetise on supporting HPC
         issues with MPI-IO. All work in IMPI 2018
    - Also thinking of moving to GCC as the default environment on the system (rather than Intel)
    - Have a large collection of scripts used to build centrally-installed software on the service that may 
-     be useful for other people: [https://github.com/UCL-RITS/rcps-buildscripts](https://github.com/UoB-HPC/benchmarks)
+     be useful for other people: [https://github.com/UCL-RITS/rcps-buildscripts](https://github.com/UCL-RITS/rcps-buildscripts)
 
 ## Cumulus
 
@@ -102,10 +102,10 @@ summary: Sharing expetise on supporting HPC
 
    - Discovered a bug in Intel MKL DNN library when running in a cloud VM - escalated to Intel
    - Had success with Cluster in the Cloud and are presenting at RSEConUK19 on this:
-      + [https://rseconuk2019.sched.com/event/QSQk/3b2-hpc-and-novel-clusters-zero-to-cluster-in-20-minutes-there-and-back-again](https://github.com/UoB-HPC/benchmarks)
-      + [https://cluster-in-the-cloud.readthedocs.io/en/latest/](https://github.com/UoB-HPC/benchmarks)
-      + Add Singularity to Cluster in the Cloud: [https://github.com/christopheredsall/citc-singularity](https://github.com/UoB-HPC/benchmarks)
-      + Test for MPI with Singularity: [https://github.com/christopheredsall/singularity-hello-world](https://github.com/UoB-HPC/benchmarks)
+      + [https://rseconuk2019.sched.com/event/QSQk/3b2-hpc-and-novel-clusters-zero-to-cluster-in-20-minutes-there-and-back-again](https://rseconuk2019.sched.com/event/QSQk/3b2-hpc-and-novel-clusters-zero-to-cluster-in-20-minutes-there-and-back-again)
+      + [https://cluster-in-the-cloud.readthedocs.io/en/latest/](https://cluster-in-the-cloud.readthedocs.io/en/latest/)
+      + Add Singularity to Cluster in the Cloud: [https://github.com/christopheredsall/citc-singularity](https://github.com/christopheredsall/citc-singularity)
+      + Test for MPI with Singularity: [https://github.com/christopheredsall/singularity-hello-world](https://github.com/christopheredsall/singularity-hello-world)
    - EPCC noted the challenges of getting good IO performance on clusters in the cloud
 
 # Upcoming events and meetings
