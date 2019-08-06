@@ -49,16 +49,16 @@ summary:
 
    - Also been looking at running rsearch software in the commercial cloud
       + Attended the RSE Summit organised by MS in Brussels
-      + One of the outcomes was the Research Software Reactor: https://github.com/research-software-reactor
+      + One of the outcomes was the Research Software Reactor: [https://github.com/research-software-reactor](https://github.com/research-software-reactor)
       + Provide one-click blueprints to allow researchers to run in the commercial cloud (Azure at the moment)
 
 ## ARCHER, Cirrus
 
    - Been looking at MPI performance across different platforms and different MPI libraries using IMB 
    - Started out as we had seen poor CASTEP scaling on Arm-based systems which was tracked down to Alltoallv scaling issues
-   - Full set of results and analysis at: https://github.com/hpc-uk/archer-benchmarks/tree/master/synth/IMB
+   - Full set of results and analysis at: [https://github.com/hpc-uk/archer-benchmarks/tree/master/synth/IMB](https://github.com/hpc-uk/archer-benchmarks/tree/master/synth/IMB)
 
-   - Most detailed analysis so far on Alltoallv performance: https://github.com/hpc-uk/archer-benchmarks/blob/master/synth/IMB/analysis/IMB_Alltoallv_compare.ipynb
+   - Most detailed analysis so far on Alltoallv performance: [https://github.com/hpc-uk/archer-benchmarks/blob/master/synth/IMB/analysis/IMB_Alltoallv_compare.ipynb](https://github.com/hpc-uk/archer-benchmarks/blob/master/synth/IMB/analysis/IMB_Alltoallv_compare.ipynb)
       + Arm-based systems show 10-20% peformance of Cray Aries dragonfly, irrespective of interconnect technology and MPI library for fully-populated nodes
       + Arm: Halving the number of MPI ranks per node doubles the MPI performance on Cray Aries for medium to large messages
       + Arm: Halving the number of MPI ranks per node increases the performnace by 5-6x on IB for medium to large messages
@@ -92,7 +92,6 @@ summary:
    - ATI Data Study Event, Bristol, Aug 2019
       + Data provided
       + Azure resource to analyse the data
-   - OpenMP on GPU Virtual Tutorial by Mark Bull, EPCC: http://www.archer.ac.uk/training/virtual/index.php
    - RSE for HPC Meeting, Birmingham, PM 16 Sep 2019
       + Associated with RSEConUK19, Birmingham
       + James Grant (Bath) and Jo Beech-Brandt (EPCC) organising
@@ -100,7 +99,7 @@ summary:
    - RSEConUK 2019, Birmingham, 17-19 Sep 2019
       + Tickets selling out fast!
 
-   - Upcoming ARCHER Training Opportunities. Full details and registration at http://www.archer.ac.uk/training/index.php
+   - Upcoming ARCHER Training Opportunities. Full details and registration at [http://www.archer.ac.uk/training/index.php](http://www.archer.ac.uk/training/index.php)
       + OpenMP on GPUs, Virtual Tutorial, Wednesday 28th August 2019 15:00
       + Enabling distributed kinetic Monte Carlo simulations for catalysis and materials science, Webinar, Wednesday 25th September 2019 15:00
       + Programming the ARM64 processor, University of Cambridge, 30 Sep - 1 Oct 2019
