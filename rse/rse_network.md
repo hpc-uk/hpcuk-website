@@ -16,9 +16,11 @@ There are a regular series of meetings that all RSE's supporting researchers usi
 that have an inerest in HPC topics are welcome to attend. The agenda is flexible and aims to cover items
 of interest to the community but usually covers:
 
-   - Updates from RSE teams supporting UK national HPC facilities
-   - Updates from other RSEs on topics of interest
-   - Upcoming events and meetings
+   - Topics  of interest suggested by the community
+   - Highlights from RSE groups supporting national HPC facilities
+   - Upcoming training, events and meetings
+
+A call for topics of interest goes out one week before meetings to the RSE mailing list and RSE Slack.
 
 ## Connection details
 
@@ -52,4 +54,5 @@ Room Ref: 1367176
 
 ## Monthly Online Meeting Notes
 
+   - [6 August 2019](2019-08-06_HPCRSEMeetingNotes.html)
    - [2 July 2019](2019-07-02_HPCRSEMeetingNotes.html)

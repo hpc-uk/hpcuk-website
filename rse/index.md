@@ -18,7 +18,6 @@ supporting researchers using HPC to discuss topics of interest and share experie
 
    - [UK HPC RSE Network](rse_network.html)
 
-
 <!--
 This page covers:
 
