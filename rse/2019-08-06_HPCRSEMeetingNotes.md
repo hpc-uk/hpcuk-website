@@ -34,7 +34,7 @@ summary:
    - If Tier-2 will be used for gap between ARCHER and ARCHER2, we need to start work on porting researchers across soon
       + What is the plan for RSE support for ARCHER projects on Tier-2? Will it be supported by ARCHER CSE, Tier-2 RSE or both?
 
-## Isambard
+## Isambard
 
    - First set of RAP projects on the system now - do not seem to have been any major issues porting their work and getting up and running
    - Bath have been working on getting VASP, QE and NAMD users onto system
