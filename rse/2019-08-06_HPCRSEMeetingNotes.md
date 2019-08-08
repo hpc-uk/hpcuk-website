@@ -8,7 +8,7 @@ summary:
 
    - ARCHER (Tier1), Cirrus (Tier2): EPCC, The University of Edinburgh
    - Cumulus (Tier2): University of Cambridge
-   - Isambard (Tier2): GW4, Univeristy of Bath
+   - Isambard (Tier2): GW4, University of Bath
    - Aberystwyth University, Supercomputing Wales
    - University of Southampton
 
@@ -47,7 +47,7 @@ summary:
    - Question about portability of CASTEP licence
       + Licence is for source so you can run on any system with an Academic licence
 
-   - Also been looking at running rsearch software in the commercial cloud
+   - Also been looking at running research software in the commercial cloud
       + Attended the RSE Summit organised by MS in Brussels
       + One of the outcomes was the Research Software Reactor: [https://github.com/research-software-reactor](https://github.com/research-software-reactor)
       + Provide one-click blueprints to allow researchers to run in the commercial cloud (Azure at the moment)
@@ -59,9 +59,9 @@ summary:
    - Full set of results and analysis at: [https://github.com/hpc-uk/archer-benchmarks/tree/master/synth/IMB](https://github.com/hpc-uk/archer-benchmarks/tree/master/synth/IMB)
 
    - Most detailed analysis so far on Alltoallv performance: [https://github.com/hpc-uk/archer-benchmarks/blob/master/synth/IMB/analysis/IMB_Alltoallv_compare.ipynb](https://github.com/hpc-uk/archer-benchmarks/blob/master/synth/IMB/analysis/IMB_Alltoallv_compare.ipynb)
-      + Arm-based systems show 10-20% peformance of Cray Aries dragonfly, irrespective of interconnect technology and MPI library for fully-populated nodes
+      + Arm-based systems show 10-20% performance of Cray Aries dragonfly, irrespective of interconnect technology and MPI library for fully-populated nodes
       + Arm: Halving the number of MPI ranks per node doubles the MPI performance on Cray Aries for medium to large messages
-      + Arm: Halving the number of MPI ranks per node increases the performnace by 5-6x on IB for medium to large messages
+      + Arm: Halving the number of MPI ranks per node increases the performance by 5-6x on IB for medium to large messages
       + Have not yet investigated the effect of tuning parameters
       + Topology seems to have a large effect on OPA performance even though all runs are within a single non-blocking switch: compare Cumulus to Tesseract in the results.
 
