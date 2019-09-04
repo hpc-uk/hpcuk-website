@@ -6,12 +6,14 @@ summary:
 
 # Attending organisations
 
-
+   - EPCC, The University of Edinburgh (ARCHER/Cirrus)
+   - GW4, University of Bristol (Isambard)
+   - University of Sheffield (JADE)
 
 # Actions
 
    - (EPCC) Check with EPSRC about status of Autumn RAP Open Access to Tier-2 call
-
+      + EPSRC have released the call: [https://epsrc.ukri.org/funding/calls/rapopenaccesstier2autumn2019/](https://epsrc.ukri.org/funding/calls/rapopenaccesstier2autumn2019/)
 
 # National HPC RSE Updates
 
@@ -47,8 +49,13 @@ NCAS:
        + I found "Fixed the problem that caused ScaLAPACK SVD routine to return incorrect array sizes." to be an interesting MKL bugfix note.
    - We are reconsidering what our default compiler and MPI ought to be, since the last several Intel versions have had issues that affect the code our users are running.
    - We also just finished running our annual survey of Thomas users.
-   - 
+
+
 # Other topics
+
+## Service Management Practices
+
+   - Should discuss at HPC Champions RSE meeting in Birmingham
 
 # Upcoming training, events and meetings
 
@@ -68,4 +75,4 @@ NCAS:
 
 # Date of next meeting
 
-TBC
+1400 UK Time, 14 Oct 2019
