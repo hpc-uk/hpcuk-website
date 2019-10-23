@@ -6,10 +6,19 @@ summary:
 
 # Attending organisations
 
+  - EPCC, The University of Edinburgh (ARCHER, Cirrus)
+  - DAMPT, University of Cambridge
+  - UCL (MMM Hub)
+  - University of Bristol (GW4 Isambard)
+  - Aberystwyth University
+  - University of Southampton
+  - Loughborough University (HPC Mid+)
+  - University of Birmingham
+  - University of Sheffield (JADE)
  
-
 # Actions
 
+   - (Andy Turner, EPCC) Put out vote for updated time for the meeting
 
 # National HPC RSE Updates
 
@@ -46,8 +55,27 @@ Business as usual
    - have not investigated possible bugs with it
    - Have made a public repo for our SAFE ticket parser. I am hoping to have example tickets included soon. https://github.com/UCL-RITS/MMMHub-SAFE
 
+## JADE
+
+   - Looking at ways of extracting usage data off the system
+
 # Other topics
 
+## Shared HPC RSE knowledge base
+
+   - Initial discussion of how to provide a collaborative HPC RSE knowledge base at the HPC Champions workshop co-located with RSEConUK in September 2019. There was a large amount of interest in this and attendees though it would be a very useful idea to pursue.
+   - Andy Turner (EPCC) has an action from HPC Champions to put together a blog post discussing options and ideas
+   - One proposal that generated a lot of interest would be to use Stack Overflow and appropriate tagging to deliver this
+   - Also pointed out that US sites tried to setup a site under Stack Exchange but failed to get enough community buy-in (although the buy-in bar is **very** high)
+   - There is also the [https://ask.cyberinfrastructure.org/](https://ask.cyberinfrastructure.org/) site setup by US sites (in the wake of the failed Stack Exchange attempt) which may be a possibility for this.
+   - Interest in running a (virtual?) hack day event to bootstrap the HPC RSE knowledge base in first half of 2020.
+   - The shared knowledge base needs to be well-indexed by Google and other search engines so people can find the information and answers they need.
+   
+## Change of meeting time 
+
+   - A number of people have nited that 2pm on a Tuesday always clashes with local meetings.
+   - The original time was chosen to suit the national HPC facilities representatives (as this is where the meeting originated) but this may not be appropriate going forward with the wider attendence at the meeting.
+   - Plan to put out a vote widely across potential attendees to try and identify the least worst time for the meeting on a monthly basis.
 
 # Upcoming training, events and meetings
 
