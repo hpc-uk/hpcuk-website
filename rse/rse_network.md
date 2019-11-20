@@ -28,6 +28,7 @@ We use Zoom for the meetings. The link is posted below next to the meeting agend
 
 ## Monthly Online Meeting Notes
 
+   - [26 November 2019](2019-11-26_HPCRSEMeetingNotes.html)
    - [15 October 2019](2019-10-15_HPCRSEMeetingNotes.html)
    - [3 September 2019](2019-09-03_HPCRSEMeetingNotes.html)
    - [6 August 2019](2019-08-06_HPCRSEMeetingNotes.html)
