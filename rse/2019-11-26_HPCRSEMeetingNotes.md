@@ -20,7 +20,7 @@ summary:
    - Most complete performance analysis so far is for Alltoallv (as it is important for CASTEP and we were looking at the performance of this specifically), see: [https://github.com/hpc-uk/archer-benchmarks/blob/master/synth/IMB/analysis/IMB_Alltoallv_compare.ipynb](https://github.com/hpc-uk/archer-benchmarks/blob/master/synth/IMB/analysis/IMB_Alltoallv_compare.ipynb)
      + Issues with collectives on Arm systems that are not understood yet
 
-   - Managed to get multi-node Singularity jobs running on Cirrus. Performance is close to native (non-container) runs
+   - Managed to get multi-node MPI Singularity container jobs running on Cirrus. Performance is close to native (non-container) runs
      + Plan to publish technical report or blog article on this
 
    - Moving ReFrame system regression testing framework into production on Cirrus
