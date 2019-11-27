@@ -6,11 +6,19 @@ summary:
 
 # Attending organisations
 
-
+   - EPCC, The University of Edinburgh
+   - University of Bath (GW4 Isambard)
+   - University of Birmingham
+   - University of Aston
+   - University of Cambridge
+   - University of Manchester
+   - University of Nottingham
+   - Trinity College Dublin
  
 # Actions
 
    - (Andy Turner, EPCC) Put out vote for updated time for the meeting
+     - Done. 2pm Tuesdays confirmed as best time
 
 # National HPC RSE Updates
 
@@ -31,18 +39,32 @@ summary:
 
    - Continues to attract new users interested in Arm.
    - 70 attendees at OpenMP workshop on GPU @ SC19 using Isambard
-   - Should be able to outline specifics once the annual report is submitted at the end of the month.
+   - Should be able to provide more specific updates once the annual report is submitted at the end of the month
+
+## HPC Mid+
+
+   - Drop in usage recently - chasing users to try get people to use it up
+     + Comment that fluctuations in usage are often seen - tempting to try and post-rationalise to events or other things going on but very difficult to actually link drops to real sociological causes.
+   - Struggling to get licensed software configured and running correctly
+     + Many sites noted that they also have problems with this 
 
 # Other topics
 
-## Reporting service time
+## Reporting service metrics 
 
    - How do different services report service time?
+     - Depends on ticketing system
+     - Question maybe more suited to the HPC-SIG
 
 ## Shared HPC RSE knowledge base
 
    - Blog article on shared UK HPC knowledge base published at: [http://www.epcc.ed.ac.uk/blog/2019/11/uk-public-hpc-knowledge-base](http://www.epcc.ed.ac.uk/blog/2019/11/uk-public-hpc-knowledge-base)
    - Will propose discussion of this as a topic for the next HPC-SIG meeting and plan to do something at next HPC Champions workshop (if not before)
+   - May also put in a proposal for the next RSE conference on this
+
+## HPC Champions
+
+   - Started to think about HPC Champions workshops for next year
 
 # Upcoming training, events and meetings
 
