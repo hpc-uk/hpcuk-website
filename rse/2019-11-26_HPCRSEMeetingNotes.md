@@ -6,10 +6,9 @@ summary:
 
 # Attending organisations
 
-   - EPCC, The University of Edinburgh
+   - EPCC, The University of Edinburgh (ARCHER, Cirrus)
    - University of Bath (GW4 Isambard)
-   - University of Birmingham
-   - University of Aston
+   - University of Birmingham, University of Aston (HPC-Mid+)
    - University of Cambridge
    - University of Manchester
    - University of Nottingham
@@ -18,7 +17,7 @@ summary:
 # Actions
 
    - (Andy Turner, EPCC) Put out vote for updated time for the meeting
-     - Done. 2pm Tuesdays confirmed as best time
+     - Done. 2pm Tuesdays confirmed as least-worst time
 
 # National HPC RSE Updates
 
