@@ -46,7 +46,7 @@ summary:
 
 # Other topics
 
-## Report from HPC Champions
+## Report from HPC Champions
 
 # Upcoming training, events and meetings
 
