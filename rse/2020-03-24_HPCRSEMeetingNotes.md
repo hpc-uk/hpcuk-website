@@ -63,7 +63,7 @@ summary:
   - On track to start service as planned
   - Interviewing for RSEs at the moment, may need to re-advertise
 
-## JADE/JAD-2
+## JADE/JADE-2
 
   - 63 nodes of DGX maxQ nodes - more power efficient 
   - 70 TB of solid state storage
@@ -102,7 +102,7 @@ summary:
    - Sheffield looking at using remote control in Google hangouts to provide online support
    - ARCHER users are all remote from EPCC so used traditional service desk with support (i.e. via e-mail)
 
-### Useful links from meeting chat
+### Useful links from meeting chat
 
    -  https://milliams.com/posts/2020/online-workshop-reflections/ 
     - I've definitely made use of the recorded Archer and POP webinars 
@@ -112,7 +112,7 @@ summary:
    -  https://arc-lessons.github.io/courses/00_schedule.html 
    -  https://coderefinery.org/
 
-## Other
+## Other
 
  - Singularity: passing environment variables, answered in RSE Slack
    - It turns out that singularity just passes the entire host environment through by default.
@@ -124,6 +124,8 @@ summary:
    - RDF continues for EPSRC projects - data to be migrated to new RDF service sometime in 2020 (may be delayed due to COVID-19 situation).
 
 # Upcoming training, events and meetings
+
+  - RSECon 2020 cancelled
 
 # Date of next meeting
 
