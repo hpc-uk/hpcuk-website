@@ -4,7 +4,9 @@ title: HPC RSE Meeting Notes: 10 March 2020
 summary:
 ---
 
-# Attending organisations
+# HPC RSE Meeting Notes: 24 March 2020
+
+## Attending organisations
 
    - EPCC: ARCHER, ARCHER2, Cirrus, DiRAC
    - QUB: NI-HPC
@@ -16,13 +18,13 @@ summary:
    - University of Birmingham
    - UCL 
 
-# Actions
+## Actions
 
    - (AndyT) Propose SocRSE online event on online training this year to SocRSE trustees
 
-# National HPC RSE Updates
+## National HPC RSE Updates
 
-## ARCHER, ARCHER2, Cirrus, DiRAC, EPCC
+### ARCHER, ARCHER2, Cirrus, DiRAC, EPCC
 
    - DiRAC benchmarks
      + Application benchmarks from the community - QCD, astrophysics/cosmology
@@ -49,12 +51,12 @@ summary:
     + Working to develop initial training building on HPC Carpentry existing lessons - plan to 
       contribute these back as open source as part of HPC Carpentry
 
-## Isambard, GW4 
+### Isambard, GW4 
 
   - Isambard up and running
   - Isambard2 funded: Cray/HPE system, second cabinet of Marvell TX2 XC50, cabinet of 72 Fujitsu A64FX, multi-architecture testbed extension
 
-## NI-HPC
+### NI-HPC
 
   - 8,000 cores AMD + NVidia GPUs + EDR Infiniband
   - All arrived and racked
@@ -63,16 +65,16 @@ summary:
   - On track to start service as planned
   - Interviewing for RSEs at the moment, may need to re-advertise
 
-## JADE/JADE-2
+### JADE/JADE-2
 
   - 63 nodes of DGX maxQ nodes - more power efficient 
   - 70 TB of solid state storage
   - Plan for hardware by end of March and service by end of June
   - Plan to use for RAP
 
-# Other topics
+## Other topics
 
-## Report from HPC Champions
+### Report from HPC Champions
 
   - Intro to new Tier2 providers 
     - Interest in harmonising access across sites: Instant Access/Pump Priming/Seedcorn, etc.
@@ -82,7 +84,7 @@ summary:
   - Sharing training resources (e.g. on HPC-UK)
   - Looked at knowledge base and what it would cover, what areas are interesting
 
-## Online and remote
+### Online and remote
 
  - Online training:
    - Lots of people trying out different approaches
@@ -102,7 +104,7 @@ summary:
    - Sheffield looking at using remote control in Google hangouts to provide online support
    - ARCHER users are all remote from EPCC so used traditional service desk with support (i.e. via e-mail)
 
-### Useful links from meeting chat
+#### Useful links from meeting chat
 
    -  https://milliams.com/posts/2020/online-workshop-reflections/ 
     - I've definitely made use of the recorded Archer and POP webinars 
@@ -112,7 +114,7 @@ summary:
    -  https://arc-lessons.github.io/courses/00_schedule.html 
    -  https://coderefinery.org/
 
-## Other
+### Other
 
  - Singularity: passing environment variables, answered in RSE Slack
    - It turns out that singularity just passes the entire host environment through by default.
@@ -123,10 +125,10 @@ summary:
    - RDF no longer available for NERC projects
    - RDF continues for EPSRC projects - data to be migrated to new RDF service sometime in 2020 (may be delayed due to COVID-19 situation).
 
-# Upcoming training, events and meetings
+## Upcoming training, events and meetings
 
   - RSECon 2020 cancelled
 
-# Date of next meeting
+## Date of next meeting
 
 1400 UK Time, TBC Apr 2020 (avoid Easter week)
