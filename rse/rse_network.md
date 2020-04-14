@@ -24,10 +24,11 @@ A call for topics of interest goes out one week before meetings to the RSE maili
 
 ## Connection details
 
-We use Zoom for the meetings. The link is posted below next to the meeting agendas that are published ahead of the meeting.
+We use Zoom for the meetings. The link is posted on the [RSE Slack Channel](https://join.slack.com/t/ukrse/signup) and circulated via mailing lists.
 
 ## Monthly Online Meeting Notes
 
+   - [21 April 2020](2020-04-21_HPCRSEMeetingNotes.html)
    - [24 March 2020](2020-03-24_HPCRSEMeetingNotes.html)
    - [26 November 2019](2019-11-26_HPCRSEMeetingNotes.html)
    - [15 October 2019](2019-10-15_HPCRSEMeetingNotes.html)
