@@ -18,13 +18,13 @@ summary:
 
 ## Topics of interest
 
-### RDF Plans?
+### RDF Plans?
 
   - Plan for future RDF with little/no interruption of service from current service
   - Delivery and development has been delayed by COVID-19 lockdown
   - Hope for more information towards end of Summer 2020
 
-### Organising a GPU course
+### Organising a GPU course
 
   - NI-HPC looking to organise GPU courses. How did they do this?
     - NVidia ambassadors have access to lots of training materials
@@ -72,7 +72,7 @@ summary:
     up properly - coordination meeting on 21 July will hopefully provide opportunities
     for this.
 
-### Isambard, GW4
+### Isambard, GW4
 
   - Isambard is now SSH key only access
     - Would be useful if the community worked together to define how new access approaches will work
@@ -83,7 +83,7 @@ summary:
   - In terms of security and authentication we haven't tried anything new, e.g. a way of forcing password changes. hoping to get a wider view of how everyone else is going so we don't have to make too many more all user changes.  It would be good to present a common approach across >=2Tier sites at least?
   - Have a couple of users struggling to get back on, some issues with not using default ssk-keys?
 
-### MMM Hub, UCL
+### MMM Hub, UCL
 
   - Running into some vendor compatibility issues in bringing systems back due to various OS version and driver incompatibilities
   - Key-only login running (as before). Monitoring the system for unsecured SSH keys on the system 
