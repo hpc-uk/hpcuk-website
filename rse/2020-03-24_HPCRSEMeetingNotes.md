@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HPC RSE Meeting Notes: 24 March 2020
+title: HPC RSE Meeting Notes, 24 March 2020
 summary:
 ---
 

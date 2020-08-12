@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HPC RSE Meeting Notes: 26 November 2019
+title: HPC RSE Meeting Notes, 26 November 2019
 summary:
 ---
 
