@@ -1,6 +1,9 @@
 /*
  * Local styles for HPC-UK website
  */
+ a {
+   color: #00f
+ }
 .bordertabstyle {
    border-collapse: collapse;
 }

@@ -117,7 +117,7 @@ font header .navbar-default .navbar-nav li a:hover {
   opacity: 0.8;
 }
 #slider .block {
-  color: #E3E3E4;
+  color: white;
 }
 #slider .block h1 {
   font-family: 'Roboto', sans-serif;
@@ -146,7 +146,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0;
 }
 #intro .block p {
-  color: #7B7B7B;
+  color: #555;
   padding-top: 20px;
 }
 #intro .block img {
@@ -171,15 +171,15 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #service .service-item i {
   font-size: 60px;
-  color: #4A4656;
+  color: #444;
 }
 #service .service-item h4 {
   padding-top: 20px;
   margin: 0;
-  color: #666;
+  color: #444;
 }
 #service .service-item p {
-  color: #888;
+  color: #555;
   padding-top: 10px;
   margin: 0;
   font-size: 14px;
@@ -258,11 +258,11 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 30px;
 }
 #feature p {
-  color: #8d8f92;
+  color: #555;
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
-  background: #655E7A;
+  background: #555;
   color: #fff;
   padding: 10px 20px;
 }
@@ -782,10 +782,10 @@ footer {
 footer p {
   font-size: 13px;
   line-height: 25px;
-  color: #919191;
+  color: #444;
 }
 footer a {
-  color: #595959;
+  color: #555;
 }
 footer .footer-manu {
   padding-bottom: 25px;
@@ -800,7 +800,7 @@ footer .footer-manu ul li {
 }
 footer .footer-manu ul li a {
   display: inline-block;
-  color: #494949;
+  color: #444;
 }
 footer .footer-manu ul li a:hover {
   color: #000;
