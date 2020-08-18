@@ -28,6 +28,7 @@ We use Zoom for the meetings. The link is posted on the [RSE Slack Channel](http
 
 ## Monthly Online Meeting Notes
 
+   - [25 August 2020](2020-08-25_HPCRSEMeetingNotes.html)
    - [30 June 2020](2020-06-30_HPCRSEMeetingNotes.html)
    - [26 May 2020](2020-05-26_HPCRSEMeetingNotes.html)
    - [21 April 2020](2020-04-21_HPCRSEMeetingNotes.html)
