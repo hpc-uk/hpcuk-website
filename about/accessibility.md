@@ -4,8 +4,7 @@ title: Website Accessibility Policy
 summary: Committed to ensuring our websites are accessible to the widest possible audience, including disabled users.  
 ---
 
-
-## Accessibility statement for ARCHER2 website
+## Accessibility statement for the HPC-UK website
 
 This accessibility statement applies to [https://www.hpc-uk.ac.uk](https://www.hpc-uk.ac.uk)
 
