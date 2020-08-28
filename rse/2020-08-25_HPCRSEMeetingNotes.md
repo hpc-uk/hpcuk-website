@@ -58,18 +58,18 @@ summary:
 
 Some sites have started publishing their configuration to allow others to build on them:
 
-  - https://github.com/ComputeCanada/software-stack-config/tree/master/lmod
-  - https://github.com/hpcugent/Lmod-UGent
+  - [https://github.com/ComputeCanada/software-stack-config/tree/master/lmod](https://github.com/ComputeCanada/software-stack-config/tree/master/lmod)
+  - [https://github.com/hpcugent/Lmod-UGent](https://github.com/hpcugent/Lmod-UGent)
 
 ## National HPC RSE Updates
 
-### EPCC: ARCHER, ARCHER2, Cirrus, DiRAC Extreme Scaling
+### EPCC: ARCHER, ARCHER2, Cirrus, DiRAC Extreme Scaling
 
   - ARCHER2
     - Porting and testing on ARCHER2 Test and Development System (TDS) based in Cray factory in US continues
-    - Webinar next week on early experiences: https://www.archer2.ac.uk/training/courses/200902-archer2-tds/ 
+    - Webinar next week on early experiences: [https://www.archer2.ac.uk/training/courses/200902-archer2-tds/](https://www.archer2.ac.uk/training/courses/200902-archer2-tds/) 
     - Initial 4 cabinets of ARCHER2 have arrived at EPCC and HPE Cray are working to install latest Shasta system software before handing over to EPCC for commissioning
-    - Continued to develop documentation at: https://docs.archer2.ac.uk
+    - Continued to develop documentation at: [https://docs.archer2.ac.uk](https://docs.archer2.ac.uk)
     - Initial introductory courses for the new system developed and tested
     - Large number of TAs evaluated for the EPSRC Access to HPC call
   - Cirrus
@@ -95,7 +95,7 @@ Some sites have started publishing their configuration to allow others to build 
 
   - The NI-HPC website ready to publish internally and have applied for ni-hpc-ac.uk domain name.
 
-### GW4 Isambard
+### GW4 Isambard
 
 #### Presently
 
@@ -121,17 +121,17 @@ We did our first trial run of HPC Carpentry on 27 and 28 July, two half days. On
 
 ## Upcoming training, events and meetings
 
-  - The Sandia labs people are continuing their Kokkos lecture series (friday afternoons UK time)  https://github.com/kokkos/kokkos-tutorials/wiki/Kokkos-Lecture-Series
-  - SYCL are running their Summer sessions 4-5pm August 31st–September 4th, 2020 https://ti.to/sycl-summer-sessions/sycl-summer-sessions-2020
+  - [The Sandia labs people are continuing their Kokkos lecture series (friday afternoons UK time)](https://github.com/kokkos/kokkos-tutorials/wiki/Kokkos-Lecture-Series)
+  - [SYCL are running their Summer sessions 4-5pm August 31st–September 4th, 2020](https://ti.to/sycl-summer-sessions/sycl-summer-sessions-2020)
   - Relevant SC20 sessions
-  - Women in HPC https://womeninhpc.org/events/sc20/workshop
-  - Research Software Engineers in HPC (RSE-HPC-2020) https://us-rse.org/rse-hpc-2020/
+    - [Women in HPC](https://womeninhpc.org/events/sc20/workshop)
+    - [Research Software Engineers in HPC (RSE-HPC-2020)](https://us-rse.org/rse-hpc-2020/)
 
-  - CIUK 2020 is going virtual https://www.scd.stfc.ac.uk/Pages/CIUK2020.aspx* 
+  - [CIUK 2020 is going virtual](https://www.scd.stfc.ac.uk/Pages/CIUK2020.aspx)
 
-  - IEEE Cluster2020, 14-17 September, online (free registration): https://clustercomp.org/2020/
+  - [IEEE Cluster2020, 14-17 September, online (free registration)](https://clustercomp.org/2020/)
 
-  - Hoping to run an HPC Champions meeting next month. Likely 2 half days 17th/18th September, through the SORSE series. Look out for more info by the end of the month including a call for talks
+  - [HPC Champions meeting: 1300, 17 Sep 2020 - 1700, 14 Sep 2020](https://indico.scc.kit.edu/event/902/)
 
 ## Date of next meeting
 
