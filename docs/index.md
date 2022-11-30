@@ -8,7 +8,8 @@ summary: Information on how to use UK HPC facilities
 
 This page provides links to documentation for UK national HPC facilities
 and other useful documentation - including a repository of compile instructions
-for various software on different HPC facilities.
+for various software on different HPC facilities and information on benchmarks
+and benchmarking data on UK national HPC facilities.
 
 If you think there are links to documentation missing from this page that should
 be here, you can either:
