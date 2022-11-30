@@ -53,6 +53,22 @@ be here, you can either:
   </div>
 </div>
 
+<div class="row vertical-box">
+  <div class="hidden-xs col-sm-4 align-middle">
+    <a href="https://github.com/DiRAC-HPC/DiRAC-3-Get-Started-User-Guide-and-Tips-and-Tricks/wiki">
+      <img src="{{ site.baseurl}}/logos/dirac.png" class="center-block img-responsive" />
+    </a>
+  </div>
+  <div class="col-sm-8">
+    <p>
+      <a href="https://github.com/DiRAC-HPC/DiRAC-3-Get-Started-User-Guide-and-Tips-and-Tricks/wiki">DiRAC HPC Services documentation</a>
+      Documentation on how to use the different services provided by DiRAC. Includes links to the user guides
+      for Extreme Scaling, Memory Intensive and Data Intensive services as well as tips to get the most 
+      out of the different systems.
+    </p>
+  </div>
+</div>
+
 <hr/>
 
 ### Compiling HPC Applications
