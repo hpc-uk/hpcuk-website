@@ -72,7 +72,7 @@ be here, you can either:
 <div class="row vertical-box">
   <div class="hidden-xs col-sm-4 align-middle">
     <a href="https://gw4-isambard.github.io">
-      <img src="{{ site.baseurl}}/logos/isambard.png" class="center-block img-responsive" />
+      <img src="{{ site.baseurl}}/logos/Isambard_logo.jpeg" class="center-block img-responsive" />
     </a>
   </div>
   <div class="col-sm-8">
