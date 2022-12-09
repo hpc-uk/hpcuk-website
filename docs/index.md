@@ -98,6 +98,22 @@ be here, you can either:
   </div>
 </div>
 
+<div class="row vertical-box">
+  <div class="hidden-xs col-sm-4 align-middle">
+    <a href="https://bede-documentation.readthedocs.io/en/latest/usage/">
+      <img src="{{ site.baseurl}}/logos/n8cir-bede.png" class="center-block img-responsive" />
+    </a>
+  </div>
+  <div class="col-sm-8">
+    <p>
+      <a href="https://bede-documentation.readthedocs.io/en/latest/usage/">Bede at N8 CIR HPC Service documentation</a>
+      Documentation on how to use the Bede UK National Tier-2 HPC Service. Includes advice on how to
+      obtain access, user guides, how to obtain support and information about the hardware and software available.
+    </p>
+  </div>
+</div>
+
+
 <hr/>
 
 ### Compiling HPC Applications
