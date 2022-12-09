@@ -114,6 +114,21 @@ be here, you can either:
   </div>
 </div>
 
+<div class="row vertical-box">
+  <div class="hidden-xs col-sm-4 align-middle">
+    <a href="https://docs.baskerville.ac.uk/">
+      <img src="{{ site.baseurl}}/logos/Baskerville.png" class="center-block img-responsive" alt="Baskerville logo" />
+    </a>
+  </div>
+  <div class="col-sm-8">
+    <p>
+      <a href="https://docs.baskerville.ac.uk/">Baskerville Docs</a>
+      contains information on how to use the Baskerville Tier-2 HPC service. This includes information on how to
+      obtain access, user guides for Baskerville and the Open OnDemand Baskerville Portal, and introductory
+      training (Baskerville Basics).
+    </p>
+  </div>
+</div>
 
 <hr/>
 
