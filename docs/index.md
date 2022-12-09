@@ -78,8 +78,8 @@ be here, you can either:
   <div class="col-sm-8">
     <p>
       <a href="https://warwick.ac.uk/research/rtp/sc/sulis/docs/">Sulis HPC Services documentation</a>
-      Documentation on how to use the different services provided by Sulis. Includes links to the user guides contains information which should help
-      users familiar with other HPC platforms to get started with Sulis and topics specific to the specialisation of the Sulis platform 
+      Documentation on how to use the different services provided by Sulis. Includes links to the user guides and contains information which should help
+      users familiar with other HPC platforms to get started with Sulis and topics specific to the specialisation of the Sulis platform.
     </p>
   </div>
 </div>
