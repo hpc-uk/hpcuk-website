@@ -71,9 +71,23 @@ be here, you can either:
 
 <div class="row vertical-box">
   <div class="hidden-xs col-sm-4 align-middle">
+    <a href="https://sulis.ac.uk/">
+      <img src="{{ site.baseurl}}/logos/hpcmidplus_logo.png" class="center-block img-responsive" alt="HPC Mid+ logo" />
+    </a>
+  </div>
+  <div class="col-sm-8">
+    <p>
+      <a href="https://warwick.ac.uk/research/rtp/sc/sulis/docs/">Sulis HPC Services documentation</a>
+      Documentation on how to use the different services provided by Sulis. Includes links to the user guides and contains information which should help
+      users familiar with other HPC platforms to get started with Sulis and topics specific to the specialisation of the Sulis platform.
+    </p>
+  </div>
+</div>
+
+<div class="row vertical-box">
+  <div class="hidden-xs col-sm-4 align-middle">
     <a href="https://gw4-isambard.github.io">
       <img src="{{ site.baseurl}}/logos/Isambard_logo.jpeg" class="center-block img-responsive" />
-    </a>
   </div>
   <div class="col-sm-8">
     <p>
