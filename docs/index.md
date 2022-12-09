@@ -88,6 +88,7 @@ be here, you can either:
   <div class="hidden-xs col-sm-4 align-middle">
     <a href="https://gw4-isambard.github.io">
       <img src="{{ site.baseurl}}/logos/Isambard_logo.jpeg" class="center-block img-responsive" />
+    </a>
   </div>
   <div class="col-sm-8">
     <p>
