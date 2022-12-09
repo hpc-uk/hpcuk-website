@@ -69,6 +69,21 @@ be here, you can either:
   </div>
 </div>
 
+<div class="row vertical-box">
+  <div class="hidden-xs col-sm-4 align-middle">
+    <a href="https://gw4-isambard.github.io">
+      <img src="{{ site.baseurl}}/logos/Isambard_logo.jpeg" class="center-block img-responsive" />
+    </a>
+  </div>
+  <div class="col-sm-8">
+    <p>
+      <a href="https://gw4-isambard.github.io">Isambard User Documentation</a>
+      Isambard is a HPC service provided by GW4 and the UK Met Office. The system is funded by EPSRC and is one of a 
+      number of Tier-2 HPC facilities in the UK.  Includes links to registration, user guides and system details.
+    </p>
+  </div>
+</div>
+
 <hr/>
 
 ### Compiling HPC Applications
