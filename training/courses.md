@@ -14,7 +14,7 @@ Filter news by tags :  <a href="/about/news/blog"><code class="highligher-rouge"
 
 {% for course in site.courses %}
 <div class="course-area">
-  <a href="{{ course.url | prepend: site.baseurl }}" class="bold">{{ course.title }}</a> &nbsp; &nbsp; &nbsp;
+  <a href="{{ course.url | prepend: site.baseurl }}" class="coursehead">{{ course.title }}</a> &nbsp; &nbsp; &nbsp;
   {{ course.tier2 }}
 
   <p class="course-date">
@@ -34,6 +34,7 @@ Filter news by tags :  <a href="/about/news/blog"><code class="highligher-rouge"
   <p>
     {{ course.content | strip_html | truncatewords: 50 }}
   </p>
+
 
   <p>
     <hr/>

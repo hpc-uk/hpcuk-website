@@ -1,0 +1,54 @@
+/*
+ * This is the  css file that contains additions to, and overrides to, pre-defined css styling from the template
+  * 
+ */
+
+
+p {
+  font-size: 15px;
+  line-height: 24px;
+}
+
+ol  {
+  padding: 5px 0px 15px 15px;
+  margin: 0;
+  list-style: decimal;
+}
+
+ul  {
+  padding: 5px 0px 15px 15px;
+  margin: 0;
+  list-style: square;
+}
+
+ul ul {
+  padding: 0px 0px 0px 30px;
+  margin: 10;
+  list-style: circle;
+}
+a,
+a:active,
+a:focus,
+a:active {
+  text-decoration: none !important;
+}
+
+<!--
+a {
+ color: #201F5B;	
+}
+-->
+
+a {
+ color: #0080ff;	
+}
+a:hover, a:focus {
+	color: #6594be;
+}
+
+.coursehead {
+ font-size: 18px;
+ line-height: 30px;
+ font-weight: bold;
+ color: #0088cc
+}
