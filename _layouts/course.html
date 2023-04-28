@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="lines">
+        </div>
+    </div>
+</div>
+
+<section id="global-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h1>{{ page.title }}</h1>
+                    <p>{{ page.trainers }}</p>
+                    <p>{{ page.human_dates }}</p>
+                    {% if page.location %}
+                        {% if page.location != "Online" %}
+                            <p>{{ page.location }}</p>
+                        {% else %}
+                            <p>{{ page.location }}</p>
+                        {% endif %}
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<p>&nbsp;</p>
+
+<section id="main-content">
+    <div class="container">
+      {{ content }}
+    </div>
+		<div class="container">
+      <a href="{{ page.registration_url }}" class="coursehead" >Further details and registration</a>
+    </div>
+</section>
+
+
