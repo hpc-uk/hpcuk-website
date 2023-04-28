@@ -5,3 +5,4 @@ _site/
 .DS_Store
 Gemfile
 Gemfile.lock
+_courses/230427-template.md
