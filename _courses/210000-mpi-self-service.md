@@ -3,7 +3,7 @@ layout: course
 title: Message-Passing Programming with MPI
 human_dates: Always open - self-service 
 start_date: 2022-11-01 10:00:00
-end_date: 2028-12-31 16:00:00
+end_date: 2099-12-31 16:00:00
 trainers: David Henty (EPCC)
 course_type: course
 registration_url: https://www.cirrus.ac.uk/training/register/?course=210000-mpi-self-service
