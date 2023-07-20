@@ -3,12 +3,13 @@ layout: course
 title: CASTEP on the GPU – A crossover Tier-2 HPC virtual training event
 start_date: 2023-09-19 13:00:00
 end_date: 2023-09-19 14:30:00
-registration_url: https://ucl.zoom.us/j/99746496587?pwd=UUJHeFBzU3p1a0crTEh2T1lrNUFrUT09
-location:  Zoom, Meeting ID&colon; 997 4649 6587 and Passcode&colon; TYCSWS 
+registration_url: 
+location:  Online using Zoom
 tier2: MMMHub Young, N8 and CSD3
 ---
 
-Information about the course.
+## Information about the course.
+
 We are excited to announce a 'software spotlight' event across the MMM Hub, N8, and CSD3 Tier-2 consortia, 
 to showcase a brand new release of the popular 'CASTEP' materials modelling package,
 which now features significant GPU acceleration. 
@@ -22,3 +23,6 @@ lucky to have access to the A100 GPUs on Young, with CSD3 and BEDE also offering
 large amounts of RAM and computing capacity. This talk will provide an opportunity for CASTEP users to 
 switch from a CPU implementation to use these currently underused GPU resources. 
 
+[Join Zoom event](https://ucl.zoom.us/j/99746496587?pwd=UUJHeFBzU3p1a0crTEh2T1lrNUFrUT09)
+
+Zoom, Meeting ID: 997 4649 6587 and Passcode: TYCSWS 

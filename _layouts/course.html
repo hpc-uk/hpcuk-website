@@ -37,7 +37,9 @@ layout: default
       {{ content }}
     </div>
 		<div class="container">
-      <a href="{{ page.registration_url }}" class="coursehead" >Further details and registration</a>
+			{% if page.registration_url %}
+        <a href="{{ page.registration_url }}" class="coursehead" >Further details and registration</a>
+			{% endif %}
     </div>
 </section>
 
