@@ -1,9 +1,10 @@
 ---
 layout: course
 title: CASTEP on the GPU – A crossover Tier-2 HPC virtual training event
+human_dates: 19th September 2023  13:00 - 14:30 BST
 start_date: 2023-09-19 13:00:00
 end_date: 2023-09-19 14:30:00
-registration_url: 
+registration_url:
 location:  Online using Zoom
 tier2: MMMHub Young, N8 and CSD3
 ---
