@@ -14,6 +14,7 @@ location_url: https://www.archer2.ac.uk/training/locations/oxford-dtc
 prace_course: 
 audience: [  developer ]
 level: [  advanced ]
+tier2: ARCHER2
 video: 
 ---
 
