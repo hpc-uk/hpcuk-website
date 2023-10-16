@@ -19,4 +19,4 @@ Practical examples will be demonstrated on [Cirrus](https://www.cirrus.ac.uk/) b
 
 This online session is open to all. It will use the Blackboard Collaborate platform.
 
-[Join the online session](https://eu.bbcollab.com/guest/8e485a7f164c42b19dfc6e90a86ab2fe)
+[Join the online session.](https://eu.bbcollab.com/guest/8e485a7f164c42b19dfc6e90a86ab2fe)
