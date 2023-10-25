@@ -40,13 +40,13 @@ be here, you can either:
 
 <div class="row vertical-box">
   <div class="hidden-xs col-sm-4 align-middle">
-    <a href="https://cirrus.readthedocs.io">
+    <a href="https://docs.cirrus.ac.uk">
       <img src="{{ site.baseurl}}/logos/cirrus_PoweredbyEPCC.png" class="center-block img-responsive" />
     </a>
   </div>
   <div class="col-sm-8">
     <p>
-      <a href="https://cirrus.readthedocs.io">Cirrus UK National Tier-2 HPC Service documentation</a>
+      <a href="https://docs.cirrus.ac.uk">Cirrus UK National Tier-2 HPC Service documentation</a>
       Documentation on how to use the Cirrus UK National Tier-2 HPC Service. Includes a detailed User
       Guide and information on research software, software libraries and tools available on the service.
     </p>
